@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abraham Haohui He</h1>
-<h3 align="center">A PhD student in University of Southern California</h3>
+<h3 align="center">A MSEE student in University of Southern California</h3>
 
 <p align="left">
 </p>
